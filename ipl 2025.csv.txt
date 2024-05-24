@@ -1,0 +1,14 @@
+Roll No	Name	class 	Marathi 	English	Phy	chem	maths
+101	Ronak	HSC	50	60	70	60	75
+102	Dheeraj	HSC	51	61	71	59	74
+103	Amol	HSC	52	62	72	58	73
+104	Dhananjay	HSC	53	63	73	57	72
+105	Akshay	HSC	54	64	74	56	71
+106	Ajay	HSC	55	65	75	55	70
+107	Smita	HSC	56	66	76	54	69
+108	Vanita	HSC	57	67	77	53	68
+109	Sandip	HSC	58	68	78	52	67
+110	Rohan	HSC	59	69	79	51	66
+
+
+6b996ad9-e8ab-47b6-b459-69a4d9933dac

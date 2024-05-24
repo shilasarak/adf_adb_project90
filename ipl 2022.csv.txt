@@ -1,0 +1,7 @@
+Name,Age,Address,Salary
+Dinesh,30,Ashta,65900
+Abhjeet,28,Ashta,78000
+Poonam,27,Mumbai,74500
+Ravi,31,Pune,98700
+Sanket,25,Satara,65400
+Sayali,27,Kolhapur,88000
